@@ -62,7 +62,7 @@
     <None Include="JenkinsTest.loadtest">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Include="LoadTest1.loadtest">
+    <None Include="SeleniumTest.loadtest">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="SeleniumTest.webtest">
